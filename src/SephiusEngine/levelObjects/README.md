@@ -1,0 +1,1 @@
+Classes about objects that appear in the game like, characters, damage objects, plataforms, barriers and etc.
